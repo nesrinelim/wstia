@@ -1,0 +1,261 @@
+.logo{
+border: 1px  solid rgb(197, 194, 194);
+width: 25%;
+align-items: center;
+
+}
+.logo img{
+margin-top: 2%;
+margin-left: 12%;
+}
+.headerbar{
+    display: flex;
+    
+    height: 120px;
+}
+.navbar{
+    border: 1px  solid rgb(197, 194, 194);;
+    width: 810px;
+    height:px ;
+    
+}
+.menuebutton{
+    border: 1px  solid rgb(197, 194, 194);
+    width: 25%;
+    /*text-align: center;
+   align-content: center;*/
+  display: flex;
+    
+   
+}
+.menue1{
+    
+    list-style-type: none;
+   display: flex;
+  height: 24%;
+   
+}
+.menue2{
+    list-style-type: none;
+    display: flex;
+    background-color: #f7f7f7;
+    height: 49%;
+    align-items: center;
+    border-top: 1px  solid rgb(197, 194, 194);
+}
+.menue1 a{
+   
+    padding: 16px 14px;
+}
+.menue1 a:hover{
+   
+    color: black;
+}
+.menue2 a{
+   
+    padding: 16px 14px;
+}
+.menue2 a:hover{
+   
+    color: black;
+}
+.button{
+    width: 50%;
+    background-color: white;
+    border: none;
+    border-right: 1px  solid rgb(197, 194, 194);
+    cursor: pointer;
+}
+.button:hover{
+    background-color: rgb(197, 194, 194);
+}
+
+a{
+    color: rgb(97, 96, 96);
+    text-decoration: none;
+}
+.video{
+background-color: #CEA0AF;
+height: 45%;
+color: rgb(54, 57, 69);
+display: flex;
+justify-content: space-around;
+
+}
+.whitetitle{
+    color: white;
+}
+.parag{
+    display:flex;
+}
+.videopar{
+    font-size: 40px;
+    margin: 170px -25px;
+}
+.videobut{
+    margin: 50px 0px;
+    background-color: white;
+    border: none;
+    width: 210px;
+    height: 70px;
+    border-radius: 5px;
+    color : rgb(54, 57, 69);
+    font-size: 25px;
+    cursor: pointer;
+}
+.videobut:hover{
+box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);}
+.vid{
+    align-content: flex-end;
+}
+.helpmenu{
+    
+  
+    display: flex;
+   height: 50%;
+
+   
+   
+}
+.WistiaHosting a{
+    text-decoration-line: underline;
+}
+.WistiaHosting a:hover{
+    text-decoration-line: none;
+}
+.Soapbox a{
+    text-decoration-line: underline;
+}
+.Soapbox a:hover{
+    text-decoration-line: none;
+}
+.tab{
+padding: 4%;
+width: 33.3%;
+}
+.WistiaHosting{
+background-color: #FED24A;
+width: 33.3%;
+}
+.Soapbox{
+    background-color: #51C29F;
+    width: 33.3%;
+}
+.videoskil{
+    background-color: #3EA9F5;
+    width: 33.3%;
+}
+.tab h1{
+    color: white;
+}
+.tab p{
+    color: rgb(54, 57, 69);
+}
+.button2{
+    
+    width: 40%;
+    height: 16%;
+    background: border-box;
+    border-color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.button2:hover{
+    background-color: white;
+}
+.paragbutton{
+    margin-bottom: 44px;
+
+}
+.img{
+    display: flex;
+    /* justify-content: space-around; */
+    margin-top: 5%;
+    color: rgb(197, 194, 194);
+    margin-left: 4%;
+    justify-content: space-around;
+}
+.imgtextp{
+    display: flex;
+    margin-top: 5%;
+    /* justify-content: space-around; */
+    width: 102%;
+    margin-left: 4%;
+    color: rgb(73, 72, 72);
+}
+.imgtext{
+    width: 33.3%;
+
+}
+/* .imgtext img:hover{
+    background-color: red;
+} */
+.footerstart{
+    color: rgb(73, 72, 72);
+    background-color: rgb(197, 194, 194);
+    display: flex;
+    justify-content: center;
+    margin-top: 2%;
+    height: 57%;
+   
+}
+.list{
+    list-style-type: none;
+    margin-top: 4%
+    
+}
+.footermenue{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 5%;
+  
+
+}
+.footrend{
+    justify-content: center;
+   display: flex;
+   align-items: center;
+}
+.footr{
+    color: white;
+    background-color: #2A2D35;
+}
+.ftr1{
+    margin-top: 4%;
+}
+.li{
+    margin-bottom: 9%;
+}
+.f{
+    color: #217AD5;
+}
+.f:hover{
+    text-decoration-line: underline;
+    text-decoration-color: white;
+}
+.a{
+    display: flex;
+    border-color: 1px solid white; 
+    align-items: center;
+}
+.line{
+    margin-left: 3%;
+    margin-right: 3%;
+    color: #2A2D35;
+}
+.imgtextp a{
+    color: #217AD5;
+    text-decoration-line: underline;
+}
+.footermenue img{
+    margin-top: 11%;
+}
+.footrend a:hover{
+text-decoration-line: underline;
+}
+.list li:hover:not(.active){
+    text-decoration-line: underline;
+}
+.footermenue h1{
+    margin-top: 2%;
+}
